@@ -1,6 +1,6 @@
 {
-  "name": "test-vare-init",
-  "version": "1.0.3",
+  "name": "reactjs-ts-frontend",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
